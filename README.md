@@ -2,6 +2,9 @@
 
 BAZARKARO is a full-featured e-commerce platform for buying and selling clothes online. This project is built using the MERN stack and Bootstrap for styling, offering a responsive and user-friendly interface for both customers and admins.
 
+### Check Application 
+https://bazarkaro.onrender.com
+
 ## Features
 
 - **User Authentication**: Secure login and registration system with JWT authentication.
